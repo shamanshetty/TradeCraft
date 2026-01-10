@@ -1,0 +1,18 @@
+# TradeCraft
+backend/.env
+backend/venv/
+backend/__pycache__/
+backend/*.log
+backend/models/
+
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/.env
+frontend/npm-debug.log*
+
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
